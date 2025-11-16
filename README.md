@@ -55,8 +55,14 @@
 ## Output:
 
 
-### Name:
-### Register Number: 
+<img width="1919" height="1037" alt="image" src="https://github.com/user-attachments/assets/148e396e-14a8-467b-95c6-520e1af35c9c" />
+
+
+<img width="1919" height="1030" alt="image" src="https://github.com/user-attachments/assets/0f6064e1-ccf6-443f-9db1-95d6adb03e53" />
+
+
+### Name : CHITTOOR SARAVANA MRUDHULA 
+### Register Number : 212224040056
 
 ## RESULT:
  ### Thus the displacement & velocity analysis for the given four bar chain mechanism is simulated.
